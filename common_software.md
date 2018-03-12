@@ -1,0 +1,65 @@
+# Common Software
+
+## Windows platform
+
+### Operational Software
+
+1. Telnet、Dig
+2. Wireshark
+3. Fiddler
+4. MySQL Workbench
+5. SecureCRT
+6. WinMerge
+7. WinScp
+8. VMware Workstation
+
+### Productivity Software
+
+1. Ditto
+2. To-Do DeskList
+
+### Text editing software
+
+1. Notepad++
+2. Gvim
+3. Microsoft Word/Ppt/Excel
+
+### Programming Software
+
+1. VS Code
+2. Pycharm
+3. Python 3.x
+
+### Chat Software
+
+1. Tim
+2. WeChat
+
+### Email Client
+
+1. Outlook
+2. Foxmail
+
+### Browser Software
+
+1. Google Chrome
+2. Firefox
+
+### Document Software
+
+1. 有道云笔记
+2. github(Git bash)
+
+### Other Software
+
+1. QQ Music
+2. 搜狗输入法
+3. 有道词典
+
+## Linux platform
+
+### Programming Software
+
+1. Vim
+2. Python 3.x
+3. Shell

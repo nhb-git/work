@@ -64,3 +64,7 @@
 1. Vim
 2. Python 3.x
 3. Shell
+
+### Operational Software
+
+1. telnet/tcpdump

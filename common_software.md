@@ -55,7 +55,7 @@
 1. QQ Music
 2. 搜狗输入法
 3. 有道词典
-4. Shadowsocks
+4. Shadowsocks: <https://github.com/shadowsocks/shadowsocks-windows/releases>
 
 ## Linux platform
 

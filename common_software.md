@@ -12,6 +12,7 @@
 6. WinMerge
 7. WinScp
 8. VMware Workstation
+9. cmder
 
 ### Productivity Software
 

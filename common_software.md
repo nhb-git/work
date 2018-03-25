@@ -30,7 +30,7 @@
 
 1. VS Code
 2. Pycharm
-3. Python 3.x
+3. Python 2.7/3.x
 
 ### Chat Software
 

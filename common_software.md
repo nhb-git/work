@@ -51,6 +51,7 @@
 
 1. 有道云笔记
 2. github(Git bash)
+3. TortoiseGit
 
 ### Other Software
 

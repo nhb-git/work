@@ -4,15 +4,16 @@
 
 ### Operational Software
 
-1. Telnet、Dig
+1. Telnet
 2. Wireshark
 3. Fiddler
 4. MySQL Workbench
 5. SecureCRT
 6. WinMerge
 7. WinScp
-8. VMware Workstation
+8. VirtualBox
 9. cmder
+10. Dig
 
 ### Productivity Software
 
@@ -57,6 +58,8 @@
 2. 搜狗输入法
 3. 有道词典
 4. Shadowsocks: <https://github.com/shadowsocks/shadowsocks-windows/releases>
+   - .Net 4.x
+   - Microsoft Visual C++ 2015 Redistributable Update 3   x86和x64都需要安装
 
 ## Linux platform
 

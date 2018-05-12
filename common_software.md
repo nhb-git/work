@@ -14,6 +14,7 @@
 8. VirtualBox
 9. cmder
 10. Dig
+11. VMware
 
 ### Productivity Software
 
@@ -24,7 +25,7 @@
 
 1. Notepad++
 2. Gvim
-3. Microsoft Word/Ppt/Excel
+3. Microsoft Word/Ppt/Excel/Visio
 
 ### Programming Software
 
@@ -61,6 +62,8 @@
 4. Shadowsocks: <https://github.com/shadowsocks/shadowsocks-windows/releases>
    - .Net 4.x
    - Microsoft Visual C++ 2015 Redistributable Update 3   x86和x64都需要安装
+5. 极速PDF
+6. 迅雷
 
 ## Linux platform
 

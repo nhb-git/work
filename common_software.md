@@ -20,6 +20,7 @@
 
 1. Ditto
 2. To-Do DeskList
+3. SwitchHosts
 
 ### Text editing software
 
@@ -76,3 +77,7 @@
 ### Operational Software
 
 1. telnet/tcpdump
+
+### Productivity Software
+
+1. SwitchHosts

@@ -21,6 +21,8 @@
 1. Ditto
 2. To-Do DeskList
 3. SwitchHosts
+4. Snipaste
+5. teamview
 
 ### Text editing software
 

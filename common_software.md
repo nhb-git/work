@@ -23,6 +23,7 @@
 3. SwitchHosts
 4. Snipaste
 5. teamview
+6. Free Download Manager
 
 ### Text editing software
 

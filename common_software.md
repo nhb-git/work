@@ -15,6 +15,7 @@
 9. cmder
 10. Dig
 11. VMware
+12. Postman
 
 ### Productivity Software
 
@@ -80,6 +81,7 @@
 ### Operational Software
 
 1. telnet/tcpdump
+2. Postman
 
 ### Productivity Software
 

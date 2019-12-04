@@ -25,6 +25,7 @@
 4. Snipaste
 5. teamview
 6. Free Download Manager
+7. keybmap
 
 ### Text editing software
 

@@ -26,6 +26,7 @@
 5. teamview
 6. Free Download Manager
 7. keybmap
+8. f.lux
 
 ### Text editing software
 

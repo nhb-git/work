@@ -8,7 +8,7 @@
 2. Wireshark
 3. Fiddler
 4. MySQL Workbench
-5. SecureCRT
+5. MobaXterm
 6. WinMerge
 7. WinScp
 8. VirtualBox
